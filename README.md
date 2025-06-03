@@ -5,19 +5,20 @@
 🧠 **Current Focus**:
 - Python basics (CS50P + MIT 6.0001)
 - Transitioning to C++ for DSA (Setup ✅)
-- LeetCode, NSAT prep, problem-solving practice
+- LeetCode, problem-solving practice
 
 🛠️ **Structure**:
 
 ```
 📁 python/
-   ├── CS50P problems
-   ├── LeetCode solutions
-   ├── MIT lecture notes & Psets
+   ├── data_structures
+   ├── practice
+   ├── notes
+   ├── problems
 
 📁 cpp/
-   ├── Setup tests (hello world, input/output)
-   ├── DSA practice: arrays, sorting, searching
+   ├── notes
+   ├── problems
    ├── C++ templates for competitive programming
 ```
 
