@@ -1,21 +1,25 @@
-# DSA Python Notes 📘
+# DSA Prep – Python & C++
 
-This repository is dedicated to mastering Data Structures and Algorithms (DSA) in Python. It contains well-structured notes, handpicked LeetCode solutions, and helpful resources to prepare for coding interviews and technical assessments.
+📌 This repository tracks my journey through Data Structures & Algorithms using Python and C++.
 
----
+🧠 **Current Focus**:
+- Python basics (CS50P + MIT 6.0001)
+- Transitioning to C++ for DSA (Setup ✅)
+- LeetCode, NSAT prep, problem-solving practice
 
-## 📂 Structure
+🛠️ **Structure**:
 
-- `data_structures/`: In-depth notes and examples for Python data structures like lists, sets, dicts, etc.
-- `algorithms/`: Core algorithm concepts including sorting, searching, recursion, and more.
-- `leetcode_solutions/`: Organized solutions by difficulty level for popular DSA problems.
-- `resources/`: Cheatsheets, summaries, and external references to aid learning.
+```
+📁 python/
+   ├── CS50P problems
+   ├── LeetCode solutions
+   ├── MIT lecture notes & Psets
 
----
+📁 cpp/
+   ├── Setup tests (hello world, input/output)
+   ├── DSA practice: arrays, sorting, searching
+   ├── C++ templates for competitive programming
+```
 
-## 🧠 Goal
-
-To build strong fundamentals in DSA using Python and practice with real-world problems from LeetCode and other platforms.
-
-Stay consistent and document everything. This will serve as your personal reference guide and portfolio for interviews.
-
+🚀 Logging daily progress and pushing updates along the way.
+Follow [@souhard_roy](https://x.com/souhard_roy) for real-time progress logs.
