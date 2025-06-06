@@ -76,7 +76,7 @@ Understanding Big-O:
 
 ---
 
-## 🛠️ What You’ve Learned So Far
+## 🛠️ What I have Learned So Far
 
 - ✅ Ignore constants and small terms
 - ✅ O(1) is fastest
@@ -86,4 +86,4 @@ Understanding Big-O:
 
 ---
 
-Feel free to add more examples and algorithm-specific breakdowns here!
+
